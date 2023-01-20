@@ -64,7 +64,9 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Add and remove tasks from the list]()**
-- **[Intergrated interactive features to the list]()**
+
+- **[Intergrate interactive functionality to the list]()**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
