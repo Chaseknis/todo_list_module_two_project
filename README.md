@@ -63,10 +63,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-
-- **[section to show list of books]()**
-- **[section to add to the list of books]()**
-- **[A button to delete the from the list of books]()**
+- **[Add and remove tasks from the list]()**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +164,6 @@ To run tests, run the following command:
 
 > I'll add the following section to the webpage.
 
-- [ ] **[Add and remove tasks from the list feature]()**
 - [ ] **[Change the order of the tasks by dragging]()**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
